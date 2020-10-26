@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ramuntos",
+    "name": "Ramuntos",
+    "address": "102 Strongs Ave. Rutland, VT",
+    "latitude": "43.601190",
+    "longitude": "-72.973275",
+    "phone number": "(802)747-9980",
+    "hours": "M-Thurs: 11AM-9PM F-Sat: 11AM-10PM Sun: 12PM-9PM",
+    "notes": "Sells single slices. Always has a 2 cheese slice special with a drink for ~ $5.00"
+  },
+  {
+    "id": "johnny-boys",
+    "name": "Johnny Boys Pancake House",
+    "address": "182 US Rt. 4 Rutland, VT",
+    "latitude": "43.622554",
+    "longitude": "-72.952676",
+    "phone number": "(802)855-8043",
+    "hours": "7AM-2PM",
+    "notes": "Great brunch spot. Always busy."
+  },
+  {
+    "id": "orientaste",
+    "name": "Orientaste",
+    "address": "47 Woodstock Ave. Rutland, VT",
+    "latitude": "43.612132",
+    "longitude": "-72.968512",
+    "phone number": "(802)775-6688",
+    "hours": "M-Sat: 11AM-9:30PM Sun: 12PM-9:30PM",
+    "notes": "Go-to chinese restaurant. Best bang for your buck."
+  },
+  {
+    "id": "bellomos",
+    "name": "Bellomo's Market",
+    "address": "31 Forest St. Rutland, VT",
+    "latitude": "43.605421",
+    "longitude": "-72.984491",
+    "phone number": "(802)775-1632",
+    "hours": "M-F: 7AM-8PM Sat: 9AM-6PM Sun: Closed",
+    "notes": "Small market with a deli. Best club sandwhiches in town."
+  },
+  {
+    "id": "rollin-rooster",
+    "name": "The Rollin' Rooster",
+    "address": "2300 Cold River Rd. North Clarendon, VT",
+    "latitude": "43.586365",
+    "longitude": "-72.953147",
+    "phone number": "(518)470-0401",
+    "hours": "11:30AM-7PM",
+    "notes": "Fried chicken food truck. Amazing chicken sandwiches!"
+  },
+  {
+    "id": "taco-bell",
+    "name": "Taco Bell",
+    "address": "45 Farrell Rd. Rutland, VT",
+    "latitude": "43.584311",
+    "longitude": "-72.968525",
+    "phone number": "(802)773-6865",
+    "hours": "Sun-Thurs: 7AM-12AM F-Sat:7AM-1AM",
+    "notes": "Finest Mexican cuisine in all the land"
+  }
+]

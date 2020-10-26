@@ -4,7 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <!-- leaflet links from their website for the map -->
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
@@ -19,7 +18,6 @@
     <link href="index.css" rel="stylesheet" />
   </head>
   <body>
-    <!--Navbar-->
     <div class="Navbar">
       <a href="ramuntos.html">Ramunto's</a>
       <a href="johnny-boys.html">Johnny Boy's Pancake House</a>
@@ -29,11 +27,15 @@
       <a href="taco-bell.html">Taco Bell</a>
     </div>
 
-    <h1 id="title">Yelpington!</h1>
-    <!-- map -->
+    <h1 id="title">Johnny Boy's Pancake House</h1>
+    <p id="info">
+      Johnny Boy's Pancake House<br />
+      182 US Rt. 4 Rutland, VT<br />
+      (802)855-8043<br />
+      Hours: 7AM-2PM<br />
+      Notes: Great brunch spot. Always busy.
+    </p>
     <div id="mapid"></div>
-
-    <!-- bring in app.js -->
-    <script src="map.js"></script>
+    <script src="johnny-boysmap.js"></script>
   </body>
 </html>

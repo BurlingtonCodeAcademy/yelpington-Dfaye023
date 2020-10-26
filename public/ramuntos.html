@@ -4,7 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <!-- leaflet links from their website for the map -->
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
@@ -19,7 +18,6 @@
     <link href="index.css" rel="stylesheet" />
   </head>
   <body>
-    <!--Navbar-->
     <div class="Navbar">
       <a href="ramuntos.html">Ramunto's</a>
       <a href="johnny-boys.html">Johnny Boy's Pancake House</a>
@@ -29,11 +27,17 @@
       <a href="taco-bell.html">Taco Bell</a>
     </div>
 
-    <h1 id="title">Yelpington!</h1>
-    <!-- map -->
+    <h1 id="title">Ramunto's</h1>
+    <p id="info">
+      Ramuntos<br />
+      102 Strongs Ave. Rutland, VT<br />
+      (802)747-9980<br />
+      M-Thurs: 11AM-9PM<br />
+      F-Sat: 11AM-10PM Sun: 12PM-9PM<br />
+      Notes: Sells single slices. Always has a 2 cheese slice special with a
+      drink for ~ $5.00
+    </p>
     <div id="mapid"></div>
-
-    <!-- bring in app.js -->
-    <script src="map.js"></script>
+    <script src="ramuntosmap.js"></script>
   </body>
 </html>
